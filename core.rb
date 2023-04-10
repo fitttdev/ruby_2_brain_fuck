@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-class Ruby2BrainFuck
+class Core
   def initialize(code)
     @code = code
     @output = ""
